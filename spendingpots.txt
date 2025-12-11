@@ -1,0 +1,14 @@
+Plaid Checking: $110
+Plaid Saving: $210
+Plaid CD: $1000
+Plaid Credit Card: $410
+Plaid Money Market: $43200
+Plaid IRA: $321
+Plaid 401k: $23632
+Plaid Student Loan: $65262
+Plaid Mortgage: $56302
+Plaid HSA: $6009
+Plaid Cash Management: $12060
+Plaid Business Credit Card: $5020
+Test: $200
+Test: $200
