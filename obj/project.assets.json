@@ -5365,11 +5365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joshstone/Projects/spendingPotsProject/spendingPotsProject.csproj",
+      "projectUniqueName": "/Users/joshstone/Documents/GitHub/SpendingPots/spendingPotsProject.csproj",
       "projectName": "spendingPotsProject",
-      "projectPath": "/Users/joshstone/Projects/spendingPotsProject/spendingPotsProject.csproj",
+      "projectPath": "/Users/joshstone/Documents/GitHub/SpendingPots/spendingPotsProject.csproj",
       "packagesPath": "/Users/joshstone/.nuget/packages/",
-      "outputPath": "/Users/joshstone/Projects/spendingPotsProject/obj/",
+      "outputPath": "/Users/joshstone/Documents/GitHub/SpendingPots/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joshstone/.nuget/NuGet/NuGet.Config"
