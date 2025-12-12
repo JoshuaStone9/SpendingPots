@@ -28,12 +28,14 @@ namespace spendingPotsProject
 
             LoadBalancesFromFile();
 
-            Console.WriteLine("Menu:");
+            Console.WriteLine("================");
+            Console.WriteLine("\nMenu:\n");
             Console.WriteLine("1. View Balances");
             Console.WriteLine("2. Add to Pot");
             Console.WriteLine("3. Add New Pot");
             Console.WriteLine("4. Sync from Plaid (sandbox)");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("5. Exit\n");
+            Console.WriteLine("================");
 
             await MenuOptionsAsync();
         }
